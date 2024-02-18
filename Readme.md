@@ -44,3 +44,5 @@ Certifique-se de que todos os passos foram executados com sucesso e verifique os
 - AWS IAM
 - Amazon S3
 - Python 3.x
+
+ajuste
