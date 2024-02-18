@@ -11,14 +11,14 @@ Este projeto consiste em uma aplicação Python para geração de dados aleatór
 
 ## Estrutura de Diretórios
 
-/
-├── 00_data_generator.py
-├── 01_infrastructure.py
-├── 02_glue_role.py
-├── 03_crawler.py
-├── 04_glue_job.py
-├── requirements.txt
-└── .env
+/  
+├── 00_data_generator.py  
+├── 01_infrastructure.py  
+├── 02_glue_role.py  
+├── 03_crawler.py  
+├── 04_glue_job.py  
+├── requirements.txt  
+└── .env  
 
 
 ## Configuração para Execução
